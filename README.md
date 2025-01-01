@@ -87,7 +87,7 @@ To ensure a welcoming and inclusive environment, please review and follow the [C
 
 ## Security Vulnerabilities
 
-If you discover any security vulnerabilities, please contact us directly at [security@universitymanagement.com](mailto:security@universitymanagement.com).
+If you discover any security vulnerabilities, please contact us directly at (mailto:sajidajaved604@gmail.com).
 
 ## License
 
