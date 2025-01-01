@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/yourusername/university-management-system" target="_blank"><img src="https://your-logo-url.com/your-logo.svg" width="400" alt="University Management System Logo"></a></p>
+<p align="center"><a href="https://github.com/sajida-dev/University-Management-System-Laravel-Project" target="_blank"><img src="https://github.com/sajida-dev/University-Management-System-Laravel-Project/blob/main/public/assets/logo1.png" width="400" alt="University Management System Logo"></a></p>
 
 
 <p align="center">
