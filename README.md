@@ -35,8 +35,8 @@ This is a **University Management System** built with Laravel. The application m
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/university-management-system.git
-    cd university-management-system
+    git clone https://github.com/sajida-dev/University-Management-System-Laravel-Project.git
+    cd University-Management-System-Laravel-Project
     ```
 
 2. Install dependencies using Composer:
